@@ -25,8 +25,8 @@ class ImcCalculatorActivity : AppCompatActivity() {
     private lateinit var btMenosEdad: FloatingActionButton
     private lateinit var btMasEdad: FloatingActionButton
 
-    private var peso: Double = 60.0
-    private var edad: Double = 26.0
+    private var peso: Int = 60
+    private var edad: Int = 26
 
     private lateinit var acbCalcular: AppCompatButton
 
