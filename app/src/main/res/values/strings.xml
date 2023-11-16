@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMCApp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="edad">Edad</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="pesonormal">Peso normal</string>
+    <string name="pesoiferior">Peso inferior</string>
+    <string name="sobrepesodesc">Peso superior a la media, teniendo en cuenta tu peso y altura</string>
+    <string name="obesidaddesc">Peso muy superior a lo normal, tienes un problema, tienes que cuidarte más.</string>
+    <string name="pesonormaldesc">Peso normal, estás en plena forma</string>
+    <string name="pesoiferiordesc">Peso inferior al peso normal</string>
+</resources>
